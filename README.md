@@ -1,6 +1,6 @@
 # Javascript Homework
 
-1.  Variables
+1.  Variable
     - https://www.youtube.com/watch?v=cXUWYZXru6o (7 min video)
     - https://www.codeanalogies.com/jsconstruction/ (interactive game)
 
